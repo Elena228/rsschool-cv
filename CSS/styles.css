@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.wrapper {
+    width: 50%;
+    margin: 3% auto;
+    border: solid lightgrey;
+    padding: 3%;
+    display: flex;
+}
+
+.left {
+    width: 33%;
+    line-height: 1;
+}
+
+.right {
+   width: 64%;
+   margin-left: 3%; 
+}
+
+.image {
+    width: 100%;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-variant: small-caps;
+    color: orange;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-variant: small-caps;
+}
+   
+
+.categories {
+    color: orange;;
+    font-weight: bold;
+}
